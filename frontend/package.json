@@ -1,10 +1,10 @@
 {
-  "name": "CallFor frontend app",
+  "name": "My project boilerplates",
   "version": "1",
   "description": "An awesome app",
   "repository": {
     "type": "git",
-    "url": "git://github.com/drjparry/c4"
+    "url": "git://github.com/drjparry/project-boilerplate"
   },
   "engines": {
     "npm": ">=3",
